@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josedamseaux
-- 👀 I’m interested in Web development and java applications
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Angular and C#
 - 💞️ I’m looking to collaborate on Angular projects
 - 📫 How to reach me josedamseaux@gmail.com
 <!---
